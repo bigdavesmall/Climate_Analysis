@@ -2,5 +2,6 @@
 *.pkl
 *.pdf
 *.h5
+*.npy
 /Yong/sampes/scripts/papers/AAAI/BikeNYC/MODEL/
 /Yong/sampes/scripts/papers/AAAI/BikeNYC/RET/
