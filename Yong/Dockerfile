@@ -13,4 +13,4 @@ RUN pip install --upgrade six
 RUN pip install keras
 
 # Copy sample code.
-COPY samples /notebooks/samples
+COPY DeepST_Code /notebooks/DeepST_Code
